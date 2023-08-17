@@ -1,0 +1,10 @@
+#dependencies
+/node_modules
+
+#database
+.db.js
+db.js
+
+#JWT
+.env
+env
