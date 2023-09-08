@@ -1,4 +1,5 @@
 # Job-Board-App
+This Job Board Tracker Application allows users to keep track of all the jobs/internships they applied for or are interested in applying. This allows users to stay organized, and productive and to focus on the interviews
 
 ### REGISTER:
 https://github.com/raycastillo3/Job-Board-App/assets/60750068/478659a6-48a7-4a23-a058-665bd92e2507
